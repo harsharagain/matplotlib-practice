@@ -35,4 +35,4 @@ LeetCode: [@harsharcodes](https://leetcode.com/harsharcodes)
 
 ---
 
-⭐ More topics and practice examples will be added as I exploring Matplotlib
+⭐ More topics and practice examples will be added as I continue exploring Matplotlib
