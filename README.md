@@ -27,10 +27,10 @@ This repository contains small, focused examples covering the basics of Matplotl
 
 ## 👨‍💻 About Me
 
-**Harsha R**
+**Harsha R**  
 🎓 1st Year Computer Science Student
 
-GitHub: [@harsharagain](https://github.com/harsharagain)
+GitHub: [@harsharagain](https://github.com/harsharagain)  
 LeetCode: [@harsharcodes](https://leetcode.com/harsharcodes)
 
 ---
