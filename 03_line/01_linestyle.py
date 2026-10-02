@@ -12,3 +12,5 @@ plt.savefig("01_linestyle.png")
 # dotted can be written as :
 # dashed can be written as --
 # solid can be written as -
+
+# Line style reference: https://matplotlib.org/stable/gallery/lines_bars_and_markers/linestyles.html#sphx-glr-gallery-lines-bars-and-markers-linestyles-py

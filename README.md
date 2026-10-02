@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Matplotlib Practice Banner">
+  <img src="assets/image.png" alt="Matplotlib Practice Banner">
 </p>
 
 # Matplotlib Practice 📊
