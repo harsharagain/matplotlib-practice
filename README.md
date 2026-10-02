@@ -20,7 +20,7 @@ This repository contains small, focused examples covering the basics of Matplotl
 | 06 | `subplots`        | Creating multiple plots with subplots  |
 | 07 | `scatter`         | Creating and customizing scatter plots |
 
-## 🛠️ Tech Used
+## <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-tools-3d-fluency-16.png"> Tech Used
 
 * 🐍 **Python**
 * 📊 **Matplotlib**
