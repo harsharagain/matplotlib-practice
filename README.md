@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Matplotlib Practice Banner">
 </p>
 
-# Matplotlib Practice <img src="./assets/icon2.png" width="45" align="middle">
+# Matplotlib Practice <img src="./assets/icon2.png" width="30" align="middle">
 
 A collection of my **Matplotlib practice programs and examples** while learning data visualization with Python.
 
@@ -20,7 +20,7 @@ This repository contains small, focused examples covering the basics of Matplotl
 | 06 | `subplots`        | Creating multiple plots with subplots  |
 | 07 | `scatter`         | Creating and customizing scatter plots |
 
-## <img src="./assets/icon1.png" width="45" align="middle"> Tech Used
+## <img src="./assets/icon1.png" width="25" align="middle"> Tech Used
 
 * 🐍 **Python**
 * 📊 **Matplotlib**
